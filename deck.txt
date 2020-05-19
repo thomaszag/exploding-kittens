@@ -1,4 +1,6 @@
-#pragma once
+Description - Contains card list in deck for exploding kittens game
+
+
 defuse = 1, attack = 2, skip = 3, peek = 4, shuffle  = 5, melonCat = 6, potatoCat = 7, zombieKitty = 8, tacoCat = 9;
 (6-9) Cat cards
 
