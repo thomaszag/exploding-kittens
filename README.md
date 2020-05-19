@@ -2,6 +2,8 @@
 
 This project uses C++ to create a version of the popular kickstarter game Exploding Kittens. 
 
+### Status: Complete
+
 ## How to Play
 
 * Exploding Kittens is a turn-based game played between 2 - 4 players.
