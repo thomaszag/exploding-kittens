@@ -1,8 +1,8 @@
 # Title: Exploding Kittens
-
+#### Status: Complete
 This project uses C++ to create a version of the popular kickstarter game Exploding Kittens. 
 
-### Status: Complete
+
 
 ## How to Play
 
