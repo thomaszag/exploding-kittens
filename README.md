@@ -16,14 +16,15 @@ discarded and the exploding kitten card is put back into the deck
 
 ## Card Types
 
-Exploding Kitten: a player loses when they draw this card, unless they have a Defuse card in which case the Defuse is discarded and the Exploding Kitten placed back into the deck.
-Defuse: allows the player to continue playing after drawing an Exploding Kitten.
-Skip: the player ends their turn without drawing a card.
-Attack: the player ends their turn(s) without drawing a card and the next player takes two turns.
-See the Future: the player is able to see the top three cards of the deck.
-Shuffle: player shuffles the deck.
-Cat Cards: cards without instructions that must be played in matched pairs, and allow the player to take a random card from another player's hand.
+Exploding Kitten: A player loses when they draw this card, unless they have a Defuse card in which case the Defuse is discarded and the Exploding Kitten placed back into the deck.
+Defuse: When a Exploding Kitten card is played, this card allows the player to continue playing 
+Skip: The player ends their turn without drawing a card.
+Attack: The player ends their turn(s) without drawing a card and the next player takes two turns.
+See the Future: The player is able to see the top three cards of the deck.
+Shuffle: Allows player to shuffle their deck.
+Cat Cards: Cards without instructions that must be played in matched pairs, and allow the player to take a random card from another player's hand.
 
+(For more expansive card list see deck.txt and bomb.txt)
 
 
 
