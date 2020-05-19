@@ -1,4 +1,6 @@
-#pragma once
+Description - Contains the bomb card list
+
+
 0
 LitterBomb
 0
